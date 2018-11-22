@@ -37,13 +37,13 @@ everything in here is a comment?
 # puts name
 #
 #
-sum = 13 +379
-product = 923 * 15
-quotient = 13209 /17
+# sum = 13 +379
+# product = 923 * 15
+# quotient = 13209 /17
 
-puts "The sum of 13 and 379 is equal to #{sum}"
-puts "923 multipied by 15 is equal to #{product}"
-puts "13209 divided by 17 is equal to #{quotient}" 
-puts name = "Leo Policastro".downcase.reverse.upcase
-
-
+# puts "The sum of 13 and 379 is equal to #{sum}"
+# puts "923 multipied by 15 is equal to #{product}"
+# puts "13209 divided by 17 is equal to #{quotient}"
+# puts name = "Leo Policastro".downcase.reverse.upcase
+#
+#
