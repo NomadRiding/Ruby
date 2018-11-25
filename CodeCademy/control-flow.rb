@@ -6,7 +6,7 @@ if user_num < 0
 elsif user_num > 0
   puts "You picked a positive integer! #{user_num} "
 else
-  puts "You picked zero!"
+  puts 'You picked zero!'
 end
 # test_1 should be false
 test_1 = 1 > 2
